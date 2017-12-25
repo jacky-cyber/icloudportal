@@ -16,14 +16,8 @@ iCloudPortal是您和您的组织高效工作智慧办公的云门户。拥有�
 * 支持持微信服务号接入：通过服务号方便免费信息推送到微信，提醒用户处理相关业务。微信可作为程序入口，方便用户使用。
 * 拥有灵活的计算器：例如，人事工资子系统中的各个薪资项目可以自定义，并执行脚本计算工资，以应对未来薪资处理逻辑的不断变化。
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-马上开始
-==================
+主要模块
+----------------------
 
 * `注册登录 <https://icloudportal.com/login>`_
 * 注册组织
@@ -44,3 +38,12 @@ iCloudPortal是您和您的组织高效工作智慧办公的云门户。拥有�
 * `电子邮件 <https://mail.icloudportal.com>`_
 * `视频会议 <https://meet.icloudportal.com>`_
 
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 开始使用
+
+   signupsignin
+
+   
+   
